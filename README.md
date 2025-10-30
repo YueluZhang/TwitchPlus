@@ -27,12 +27,14 @@ The project demonstrates backend and frontend integration using **Java (Spring B
 
 ## 🧾 Project Structure
 
+```
 TwitchPlus/
-├── backend/ # Spring Boot backend
-├── frontend/ # React frontend
+├── backend/      # Spring Boot backend
+├── frontend/     # React frontend
 ├── .gitignore
 ├── LICENSE
 └── README.md
+```
 
 ---
 
