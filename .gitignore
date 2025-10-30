@@ -1,0 +1,22 @@
+# Java / Gradle
+*.class
+*.jar
+*.war
+*.log
+build/
+.gradle/
+.idea/
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Mac
+.DS_Store
+
+# Environment / Config
+.env
+application.yml
+application.properties
+
